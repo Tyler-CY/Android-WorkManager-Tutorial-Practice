@@ -1,3 +1,6 @@
+# This code contains starter code by Android and other code I wrote based on this [Android Developer Tutorial](https://developer.android.com/codelabs/android-workmanager?continue=https%3A%2F%2Fdeveloper.android.com%2Fcourses%2Fpathways%2Fandroid-basics-kotlin-unit-6-pathway-1%23codelab-https%3A%2F%2Fdeveloper.android.com%2Fcodelabs%2Fandroid-workmanager#0). The goal of this GitHub project is to practice using Android's WorkManager.
+
+
 WorkManager Codelab
 ===================================
 
